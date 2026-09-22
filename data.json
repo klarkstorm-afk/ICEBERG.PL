@@ -1,28 +1,6 @@
 {
   "companies": [
     {
-      "id": 1,
-      "name": "Legal Poland",
-      "category": "Карта побыту",
-      "cities": [
-        "Warszawa",
-        "Łódź"
-      ],
-      "verified": true,
-      "opt": true,
-      "avatarInitials": "LP",
-      "avatarColor": "linear-gradient(135deg,#B0123B,#7A1030)",
-      "avatarImage": null,
-      "description": "Демо-запись. Полное описание услуг компании — заполните сами.",
-      "websiteUrl": "https://example.com",
-      "telegramUrl": "https://t.me/example_channel1",
-      "botUrl": "https://t.me/example_bot1",
-      "contact": "@example_manager1",
-      "phone": "+48 000 000 001",
-      "address": "ул. Пример, 1",
-      "workingHours": "Пн–Пт 9:00–18:00"
-    },
-    {
       "id": 2,
       "name": "Kancelaria Lex",
       "category": "Виза",
