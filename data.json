@@ -1,50 +1,6 @@
 {
   "companies": [
     {
-      "id": 2,
-      "name": "Kancelaria Lex",
-      "category": "Виза",
-      "cities": [
-        "Kraków"
-      ],
-      "verified": false,
-      "opt": false,
-      "avatarInitials": "KL",
-      "avatarColor": "linear-gradient(135deg,#FF6F91,#B0123B)",
-      "avatarImage": null,
-      "description": "Демо-запись. Полное описание услуг компании — заполните сами.",
-      "websiteUrl": "https://example.com",
-      "telegramUrl": "https://t.me/example_channel2",
-      "botUrl": "https://t.me/example_bot2",
-      "contact": "@example_manager2",
-      "phone": "+48 000 000 002",
-      "address": "ул. Пример, 2",
-      "workingHours": "Пн–Сб 10:00–19:00"
-    },
-    {
-      "id": 3,
-      "name": "Praca Consulting",
-      "category": "Легализация работы",
-      "cities": [
-        "Wrocław",
-        "Opole",
-        "Wałbrzych"
-      ],
-      "verified": true,
-      "opt": false,
-      "avatarInitials": "PC",
-      "avatarColor": "linear-gradient(135deg,#E6A23C,#B0123B)",
-      "avatarImage": null,
-      "description": "Демо-запись. Полное описание услуг компании — заполните сами.",
-      "websiteUrl": "https://example.com",
-      "telegramUrl": "https://t.me/example_channel3",
-      "botUrl": "https://t.me/example_bot3",
-      "contact": "@example_manager3",
-      "phone": "+48 000 000 003",
-      "address": "ул. Пример, 3",
-      "workingHours": "Пн–Пт 9:00–17:00"
-    },
-    {
       "id": 4,
       "name": "Business Registry PL",
       "category": "Регистрация бизнеса",
