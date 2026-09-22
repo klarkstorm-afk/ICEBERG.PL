@@ -1,28 +1,6 @@
 {
   "companies": [
     {
-      "id": 4,
-      "name": "Business Registry PL",
-      "category": "Регистрация бизнеса",
-      "cities": [
-        "Gdańsk",
-        "Gdynia"
-      ],
-      "verified": false,
-      "opt": true,
-      "avatarInitials": "BP",
-      "avatarColor": "linear-gradient(135deg,#7A1030,#FF6F91)",
-      "avatarImage": null,
-      "description": "Демо-запись. Полное описание услуг компании — заполните сами.",
-      "websiteUrl": "https://example.com",
-      "telegramUrl": "https://t.me/example_channel4",
-      "botUrl": "https://t.me/example_bot4",
-      "contact": "@example_manager4",
-      "phone": "+48 000 000 004",
-      "address": "ул. Пример, 4",
-      "workingHours": "Пн–Пт 9:00–18:00"
-    },
-    {
       "id": 5,
       "name": "Poznań Migration Hub",
       "category": "Карта побыту",
