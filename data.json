@@ -1,28 +1,6 @@
 {
   "companies": [
     {
-      "id": 7,
-      "name": "Szczecin WorkPapers",
-      "category": "Легализация работы",
-      "cities": [
-        "Szczecin",
-        "Koszalin"
-      ],
-      "verified": true,
-      "opt": true,
-      "avatarInitials": "SW",
-      "avatarColor": "linear-gradient(135deg,#E6A23C,#7A1030)",
-      "avatarImage": null,
-      "description": "Демо-запись. Полное описание услуг компании — заполните сами.",
-      "websiteUrl": "https://example.com",
-      "telegramUrl": "https://t.me/example_channel7",
-      "botUrl": "https://t.me/example_bot7",
-      "contact": "@example_manager7",
-      "phone": "+48 000 000 007",
-      "address": "ул. Пример, 7",
-      "workingHours": "Пн–Пт 9:00–17:00"
-    },
-    {
       "id": 8,
       "name": "Katowice Firma Start",
       "category": "Регистрация бизнеса",
