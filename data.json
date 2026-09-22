@@ -1,27 +1,5 @@
 {
-  "companies": [
-    {
-      "id": 10,
-      "name": "Warszawa Fast Track",
-      "category": "Карта побыту",
-      "cities": [
-        "Warszawa"
-      ],
-      "verified": false,
-      "opt": false,
-      "avatarInitials": "WF",
-      "avatarColor": "linear-gradient(135deg,#FF6F91,#E6A23C)",
-      "avatarImage": null,
-      "description": "Демо-запись. Полное описание услуг компании — заполните сами.",
-      "websiteUrl": "https://example.com",
-      "telegramUrl": "https://t.me/example_channel10",
-      "botUrl": "https://t.me/example_bot10",
-      "contact": "@example_manager10",
-      "phone": "+48 000 000 010",
-      "address": "ул. Пример, 10",
-      "workingHours": "Пн–Пт 9:00–18:00"
-    }
-  ],
+  "companies": [],
   "services": [
     {
       "name": "Карта побыту",
