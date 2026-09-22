@@ -1,27 +1,6 @@
 {
   "companies": [
     {
-      "id": 5,
-      "name": "Poznań Migration Hub",
-      "category": "Карта побыту",
-      "cities": [
-        "Poznań"
-      ],
-      "verified": true,
-      "opt": false,
-      "avatarInitials": "PM",
-      "avatarColor": "linear-gradient(135deg,#B0123B,#E6A23C)",
-      "avatarImage": null,
-      "description": "Демо-запись. Полное описание услуг компании — заполните сами.",
-      "websiteUrl": "https://example.com",
-      "telegramUrl": "https://t.me/example_channel5",
-      "botUrl": "https://t.me/example_bot5",
-      "contact": "@example_manager5",
-      "phone": "+48 000 000 005",
-      "address": "ул. Пример, 5",
-      "workingHours": "Пн–Пт 9:00–18:00"
-    },
-    {
       "id": 6,
       "name": "Łódź Visa Center",
       "category": "Виза",
