@@ -1,5 +1,73 @@
 {
-  "companies": [],
+  "companies": [
+    {
+      "id": 8,
+      "name": "Katowice Firma Start",
+      "category": "Регистрация бизнеса",
+      "cities": [
+        "Katowice",
+        "Gliwice",
+        "Zabrze",
+        "Chorzów"
+      ],
+      "verified": false,
+      "opt": false,
+      "avatarInitials": "KF",
+      "avatarColor": "linear-gradient(135deg,#B0123B,#FF6F91)",
+      "avatarImage": null,
+      "description": "Демо-запись. Полное описание услуг компании — заполните сами.",
+      "websiteUrl": "https://example.com",
+      "telegramUrl": "https://t.me/example_channel8",
+      "botUrl": "https://t.me/example_bot8",
+      "contact": "@example_manager8",
+      "phone": "+48 000 000 008",
+      "address": "ул. Пример, 8",
+      "workingHours": "Пн–Пт 9:00–18:00"
+    },
+    {
+      "id": 9,
+      "name": "Lublin Legal Bureau",
+      "category": "Другое",
+      "cities": [
+        "Lublin",
+        "Chełm"
+      ],
+      "verified": true,
+      "opt": false,
+      "avatarInitials": "LB",
+      "avatarColor": "linear-gradient(135deg,#7A1030,#E6A23C)",
+      "avatarImage": null,
+      "description": "Демо-запись. Полное описание услуг компании — заполните сами.",
+      "websiteUrl": "https://example.com",
+      "telegramUrl": "https://t.me/example_channel9",
+      "botUrl": "https://t.me/example_bot9",
+      "contact": "@example_manager9",
+      "phone": "+48 000 000 009",
+      "address": "ул. Пример, 9",
+      "workingHours": "Пн–Пт 9:00–17:00"
+    },
+    {
+      "id": 10,
+      "name": "Warszawa Fast Track",
+      "category": "Карта побыту",
+      "cities": [
+        "Warszawa"
+      ],
+      "verified": false,
+      "opt": false,
+      "avatarInitials": "WF",
+      "avatarColor": "linear-gradient(135deg,#FF6F91,#E6A23C)",
+      "avatarImage": null,
+      "description": "Демо-запись. Полное описание услуг компании — заполните сами.",
+      "websiteUrl": "https://example.com",
+      "telegramUrl": "https://t.me/example_channel10",
+      "botUrl": "https://t.me/example_bot10",
+      "contact": "@example_manager10",
+      "phone": "+48 000 000 010",
+      "address": "ул. Пример, 10",
+      "workingHours": "Пн–Пт 9:00–18:00"
+    }
+  ],
   "services": [
     {
       "name": "Карта побыту",
