@@ -1,0 +1,302 @@
+{
+  "companies": [
+    {
+      "id": 1,
+      "name": "Legal Poland",
+      "category": "Карта побыту",
+      "cities": [
+        "Warszawa",
+        "Łódź"
+      ],
+      "verified": true,
+      "opt": true,
+      "avatarInitials": "LP",
+      "avatarColor": "linear-gradient(135deg,#B0123B,#7A1030)",
+      "avatarImage": null,
+      "description": "Демо-запись. Полное описание услуг компании — заполните сами.",
+      "websiteUrl": "https://example.com",
+      "telegramUrl": "https://t.me/example_channel1",
+      "botUrl": "https://t.me/example_bot1",
+      "contact": "@example_manager1",
+      "phone": "+48 000 000 001",
+      "address": "ул. Пример, 1",
+      "workingHours": "Пн–Пт 9:00–18:00"
+    },
+    {
+      "id": 2,
+      "name": "Kancelaria Lex",
+      "category": "Виза",
+      "cities": [
+        "Kraków"
+      ],
+      "verified": false,
+      "opt": false,
+      "avatarInitials": "KL",
+      "avatarColor": "linear-gradient(135deg,#FF6F91,#B0123B)",
+      "avatarImage": null,
+      "description": "Демо-запись. Полное описание услуг компании — заполните сами.",
+      "websiteUrl": "https://example.com",
+      "telegramUrl": "https://t.me/example_channel2",
+      "botUrl": "https://t.me/example_bot2",
+      "contact": "@example_manager2",
+      "phone": "+48 000 000 002",
+      "address": "ул. Пример, 2",
+      "workingHours": "Пн–Сб 10:00–19:00"
+    },
+    {
+      "id": 3,
+      "name": "Praca Consulting",
+      "category": "Легализация работы",
+      "cities": [
+        "Wrocław",
+        "Opole",
+        "Wałbrzych"
+      ],
+      "verified": true,
+      "opt": false,
+      "avatarInitials": "PC",
+      "avatarColor": "linear-gradient(135deg,#E6A23C,#B0123B)",
+      "avatarImage": null,
+      "description": "Демо-запись. Полное описание услуг компании — заполните сами.",
+      "websiteUrl": "https://example.com",
+      "telegramUrl": "https://t.me/example_channel3",
+      "botUrl": "https://t.me/example_bot3",
+      "contact": "@example_manager3",
+      "phone": "+48 000 000 003",
+      "address": "ул. Пример, 3",
+      "workingHours": "Пн–Пт 9:00–17:00"
+    },
+    {
+      "id": 4,
+      "name": "Business Registry PL",
+      "category": "Регистрация бизнеса",
+      "cities": [
+        "Gdańsk",
+        "Gdynia"
+      ],
+      "verified": false,
+      "opt": true,
+      "avatarInitials": "BP",
+      "avatarColor": "linear-gradient(135deg,#7A1030,#FF6F91)",
+      "avatarImage": null,
+      "description": "Демо-запись. Полное описание услуг компании — заполните сами.",
+      "websiteUrl": "https://example.com",
+      "telegramUrl": "https://t.me/example_channel4",
+      "botUrl": "https://t.me/example_bot4",
+      "contact": "@example_manager4",
+      "phone": "+48 000 000 004",
+      "address": "ул. Пример, 4",
+      "workingHours": "Пн–Пт 9:00–18:00"
+    },
+    {
+      "id": 5,
+      "name": "Poznań Migration Hub",
+      "category": "Карта побыту",
+      "cities": [
+        "Poznań"
+      ],
+      "verified": true,
+      "opt": false,
+      "avatarInitials": "PM",
+      "avatarColor": "linear-gradient(135deg,#B0123B,#E6A23C)",
+      "avatarImage": null,
+      "description": "Демо-запись. Полное описание услуг компании — заполните сами.",
+      "websiteUrl": "https://example.com",
+      "telegramUrl": "https://t.me/example_channel5",
+      "botUrl": "https://t.me/example_bot5",
+      "contact": "@example_manager5",
+      "phone": "+48 000 000 005",
+      "address": "ул. Пример, 5",
+      "workingHours": "Пн–Пт 9:00–18:00"
+    },
+    {
+      "id": 6,
+      "name": "Łódź Visa Center",
+      "category": "Виза",
+      "cities": [
+        "Łódź"
+      ],
+      "verified": false,
+      "opt": false,
+      "avatarInitials": "LV",
+      "avatarColor": "linear-gradient(135deg,#FF6F91,#7A1030)",
+      "avatarImage": null,
+      "description": "Демо-запись. Полное описание услуг компании — заполните сами.",
+      "websiteUrl": "https://example.com",
+      "telegramUrl": "https://t.me/example_channel6",
+      "botUrl": "https://t.me/example_bot6",
+      "contact": "@example_manager6",
+      "phone": "+48 000 000 006",
+      "address": "ул. Пример, 6",
+      "workingHours": "Вт–Сб 10:00–18:00"
+    },
+    {
+      "id": 7,
+      "name": "Szczecin WorkPapers",
+      "category": "Легализация работы",
+      "cities": [
+        "Szczecin",
+        "Koszalin"
+      ],
+      "verified": true,
+      "opt": true,
+      "avatarInitials": "SW",
+      "avatarColor": "linear-gradient(135deg,#E6A23C,#7A1030)",
+      "avatarImage": null,
+      "description": "Демо-запись. Полное описание услуг компании — заполните сами.",
+      "websiteUrl": "https://example.com",
+      "telegramUrl": "https://t.me/example_channel7",
+      "botUrl": "https://t.me/example_bot7",
+      "contact": "@example_manager7",
+      "phone": "+48 000 000 007",
+      "address": "ул. Пример, 7",
+      "workingHours": "Пн–Пт 9:00–17:00"
+    },
+    {
+      "id": 8,
+      "name": "Katowice Firma Start",
+      "category": "Регистрация бизнеса",
+      "cities": [
+        "Katowice",
+        "Gliwice",
+        "Zabrze",
+        "Chorzów"
+      ],
+      "verified": false,
+      "opt": false,
+      "avatarInitials": "KF",
+      "avatarColor": "linear-gradient(135deg,#B0123B,#FF6F91)",
+      "avatarImage": null,
+      "description": "Демо-запись. Полное описание услуг компании — заполните сами.",
+      "websiteUrl": "https://example.com",
+      "telegramUrl": "https://t.me/example_channel8",
+      "botUrl": "https://t.me/example_bot8",
+      "contact": "@example_manager8",
+      "phone": "+48 000 000 008",
+      "address": "ул. Пример, 8",
+      "workingHours": "Пн–Пт 9:00–18:00"
+    },
+    {
+      "id": 9,
+      "name": "Lublin Legal Bureau",
+      "category": "Другое",
+      "cities": [
+        "Lublin",
+        "Chełm"
+      ],
+      "verified": true,
+      "opt": false,
+      "avatarInitials": "LB",
+      "avatarColor": "linear-gradient(135deg,#7A1030,#E6A23C)",
+      "avatarImage": null,
+      "description": "Демо-запись. Полное описание услуг компании — заполните сами.",
+      "websiteUrl": "https://example.com",
+      "telegramUrl": "https://t.me/example_channel9",
+      "botUrl": "https://t.me/example_bot9",
+      "contact": "@example_manager9",
+      "phone": "+48 000 000 009",
+      "address": "ул. Пример, 9",
+      "workingHours": "Пн–Пт 9:00–17:00"
+    },
+    {
+      "id": 10,
+      "name": "Warszawa Fast Track",
+      "category": "Карта побыту",
+      "cities": [
+        "Warszawa"
+      ],
+      "verified": false,
+      "opt": false,
+      "avatarInitials": "WF",
+      "avatarColor": "linear-gradient(135deg,#FF6F91,#E6A23C)",
+      "avatarImage": null,
+      "description": "Демо-запись. Полное описание услуг компании — заполните сами.",
+      "websiteUrl": "https://example.com",
+      "telegramUrl": "https://t.me/example_channel10",
+      "botUrl": "https://t.me/example_bot10",
+      "contact": "@example_manager10",
+      "phone": "+48 000 000 010",
+      "address": "ул. Пример, 10",
+      "workingHours": "Пн–Пт 9:00–18:00"
+    }
+  ],
+  "services": [
+    {
+      "name": "Карта побыту",
+      "avatarInitials": "KP",
+      "avatarColor": "linear-gradient(135deg,#B0123B,#7A1030)",
+      "avatarImage": null,
+      "websiteUrl": "https://example.com",
+      "telegramUrl": "https://t.me/example_channel",
+      "botUrl": "https://t.me/example_bot"
+    },
+    {
+      "name": "Виза",
+      "avatarInitials": "VZ",
+      "avatarColor": "linear-gradient(135deg,#FF6F91,#B0123B)",
+      "avatarImage": null,
+      "websiteUrl": "https://example.com",
+      "telegramUrl": "https://t.me/example_channel",
+      "botUrl": "https://t.me/example_bot"
+    },
+    {
+      "name": "Легализация работы",
+      "avatarInitials": "LR",
+      "avatarColor": "linear-gradient(135deg,#E6A23C,#B0123B)",
+      "avatarImage": null,
+      "websiteUrl": "https://example.com",
+      "telegramUrl": "https://t.me/example_channel",
+      "botUrl": "https://t.me/example_bot"
+    },
+    {
+      "name": "Регистрация бизнеса",
+      "avatarInitials": "RB",
+      "avatarColor": "linear-gradient(135deg,#7A1030,#FF6F91)",
+      "avatarImage": null,
+      "websiteUrl": "https://example.com",
+      "telegramUrl": "https://t.me/example_channel",
+      "botUrl": "https://t.me/example_bot"
+    },
+    {
+      "name": "Перевод документов",
+      "avatarInitials": "PD",
+      "avatarColor": "linear-gradient(135deg,#B0123B,#E6A23C)",
+      "avatarImage": null,
+      "websiteUrl": "https://example.com",
+      "telegramUrl": "https://t.me/example_channel",
+      "botUrl": "https://t.me/example_bot"
+    },
+    {
+      "name": "Другое",
+      "avatarInitials": "DR",
+      "avatarColor": "linear-gradient(135deg,#FF3366,#7A1030)",
+      "avatarImage": null,
+      "websiteUrl": "https://example.com",
+      "telegramUrl": "https://t.me/example_channel",
+      "botUrl": "https://t.me/example_bot"
+    }
+  ],
+  "channels": [
+    {
+      "name": "Основной канал",
+      "avatarInitials": "TP",
+      "avatarColor": "linear-gradient(135deg,#B0123B,#7A1030)",
+      "avatarImage": null,
+      "url": "https://t.me/example_main_channel"
+    },
+    {
+      "name": "Новости и обновления",
+      "avatarInitials": "NW",
+      "avatarColor": "linear-gradient(135deg,#FF6F91,#B0123B)",
+      "avatarImage": null,
+      "url": "https://t.me/example_news_channel"
+    },
+    {
+      "name": "Чат поддержки",
+      "avatarInitials": "SP",
+      "avatarColor": "linear-gradient(135deg,#E6A23C,#B0123B)",
+      "avatarImage": null,
+      "url": "https://t.me/example_support_chat"
+    }
+  ]
+}
