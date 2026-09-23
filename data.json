@@ -48,15 +48,6 @@
   ],
   "services": [
     {
-      "name": "Карта побыту",
-      "avatarInitials": "KP",
-      "avatarColor": "linear-gradient(135deg,#B0123B,#7A1030)",
-      "avatarImage": null,
-      "websiteUrl": "https://example.com",
-      "telegramUrl": "https://t.me/example_channel",
-      "botUrl": "https://t.me/example_bot"
-    },
-    {
       "name": "Виза",
       "avatarInitials": "VZ",
       "avatarColor": "linear-gradient(135deg,#FF6F91,#B0123B)",
