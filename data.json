@@ -16,7 +16,7 @@
       "botMessage": "Привет, увидел вас в ICEBERG🧊",
       "showWebsite": true,
       "showTelegram": true,
-      "showBot": false,
+      "showBot": true,
       "workingHours": "All week 13:00-23:30",
       "description": "Лучше уже не будет🥇",
       "opt": true,
