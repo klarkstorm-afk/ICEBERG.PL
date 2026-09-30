@@ -28,12 +28,12 @@
           "botMessage": "Привет, увидел вас в ICEBERG🧊"
         }
       },
-      "websiteUrl": "http://onetop.uk/",
+      "websiteUrl": "https://onetop.ac/",
       "telegramUrl": "https://t.me/one_top",
-      "botUrl": "https://t.me/THE1CEBERGBOT",
+      "botUrl": "",
       "showWebsite": true,
       "showTelegram": true,
-      "showBot": true,
+      "showBot": false,
       "workingHours": "All week 13:00-23:30",
       "description": "Лучше уже не будет🥇",
       "id": 1,
