@@ -1723,6 +1723,18 @@
         "wendigo"
       ],
       "url": ""
+    },
+    {
+      "name": "WEN",
+      "avatarInitials": "",
+      "avatarColor": "linear-gradient(135deg, #7CFFB2, #FFE45C)",
+      "avatarImage": "https://raw.githubusercontent.com/klarkstorm-afk/ICEBERG.PL/main/avatars/8d05dd19643005f6.jpg",
+      "active": true,
+      "hiddenOn": [
+        "iceberg",
+        "unicorn"
+      ],
+      "url": ""
     }
   ],
   "order": {
