@@ -1711,6 +1711,18 @@
         "unicorn"
       ],
       "url": "https://t.me/THE1CEBERGBOT"
+    },
+    {
+      "name": "UNI",
+      "avatarInitials": "",
+      "avatarColor": "linear-gradient(135deg, #FF4FD8, #9B5CFF)",
+      "avatarImage": "https://raw.githubusercontent.com/klarkstorm-afk/ICEBERG.PL/main/avatars/f68c6f633035e469.jpg",
+      "active": true,
+      "hiddenOn": [
+        "iceberg",
+        "wendigo"
+      ],
+      "url": ""
     }
   ],
   "order": {
