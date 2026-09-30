@@ -281,22 +281,15 @@
       "botMessage": ""
     },
     {
-      "id": 8,
       "name": "🃏Joker Comics🃏",
-      "cities": [],
       "avatarInitials": "🃏",
       "avatarColor": "linear-gradient(135deg,#FF6F91,#7A1030)",
-      "avatarImage": "https://raw.githubusercontent.com/klarkstorm-afk/ICEBERG.PL/main/avatars/5438496379cf98f8.jpg",
-      "websiteUrl": "",
-      "telegramUrl": "",
-      "botUrl": "",
-      "showWebsite": true,
-      "showTelegram": true,
-      "showBot": true,
-      "workingHours": "",
-      "description": "",
-      "verified": false,
-      "category": "",
+      "avatarImage": "https://raw.githubusercontent.com/klarkstorm-afk/ICEBERG.PL/main/avatars/8d05dd19643005f6.jpg",
+      "active": true,
+      "hiddenOn": [],
+      "cities": [
+        "Warszawa"
+      ],
       "perSite": {
         "iceberg": {
           "opt": false,
@@ -314,6 +307,17 @@
           "botMessage": ""
         }
       },
+      "websiteUrl": "",
+      "telegramUrl": "",
+      "botUrl": "",
+      "showWebsite": true,
+      "showTelegram": true,
+      "showBot": true,
+      "workingHours": "",
+      "description": "",
+      "id": 8,
+      "verified": false,
+      "category": "",
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
