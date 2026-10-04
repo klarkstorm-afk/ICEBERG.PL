@@ -1693,15 +1693,12 @@
       "url": "https://t.me/THEICEBERGNEWS"
     },
     {
-      "name": "Support ICEBERG",
+      "name": "Support",
       "avatarInitials": "SU",
       "avatarColor": "linear-gradient(135deg,#E6A23C,#B0123B)",
-      "avatarImage": "https://raw.githubusercontent.com/klarkstorm-afk/ICEBERG.PL/main/avatars/fffbe129e6d02f5e.gif",
+      "avatarImage": "https://raw.githubusercontent.com/klarkstorm-afk/ICEBERG.PL/main/avatars/cefe69fe26f75249.jpg",
       "active": true,
-      "hiddenOn": [
-        "wendigo",
-        "unicorn"
-      ],
+      "hiddenOn": [],
       "url": "https://t.me/example_support_chat"
     },
     {
@@ -1717,7 +1714,7 @@
       "url": "https://t.me/THE1CEBERGBOT"
     },
     {
-      "name": "UNI",
+      "name": "UNIBOT",
       "avatarInitials": "",
       "avatarColor": "linear-gradient(135deg, #FF4FD8, #9B5CFF)",
       "avatarImage": "https://raw.githubusercontent.com/klarkstorm-afk/ICEBERG.PL/main/avatars/f68c6f633035e469.jpg",
@@ -1729,7 +1726,7 @@
       "url": ""
     },
     {
-      "name": "WEN",
+      "name": "WENBOT",
       "avatarInitials": "",
       "avatarColor": "linear-gradient(135deg, #7CFFB2, #FFE45C)",
       "avatarImage": "https://raw.githubusercontent.com/klarkstorm-afk/ICEBERG.PL/main/avatars/8d05dd19643005f6.jpg",
