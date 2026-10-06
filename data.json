@@ -1678,7 +1678,7 @@
         "wendigo",
         "unicorn"
       ],
-      "url": "https://t.me/+oGzIUQDTghJkNzUx"
+      "url": "https://t.me/+kQw5SIrg3KtmMTRi"
     },
     {
       "name": "🧊CHANNEL🧊",
@@ -1736,6 +1736,54 @@
         "unicorn"
       ],
       "url": ""
+    },
+    {
+      "name": "UNICORN chat",
+      "avatarInitials": "",
+      "avatarColor": "linear-gradient(135deg, #3DE8FF, #7CFFB2)",
+      "avatarImage": "https://raw.githubusercontent.com/klarkstorm-afk/ICEBERG.PL/main/avatars/f68c6f633035e469.jpg",
+      "active": true,
+      "hiddenOn": [
+        "wendigo",
+        "iceberg"
+      ],
+      "url": "https://t.me/+tpJktBjgIyE4MGNi"
+    },
+    {
+      "name": "WENDIGO chat",
+      "avatarInitials": "",
+      "avatarColor": "linear-gradient(135deg, #3DE8FF, #7CFFB2)",
+      "avatarImage": "https://raw.githubusercontent.com/klarkstorm-afk/ICEBERG.PL/main/avatars/2a370debfdd19dbf.gif",
+      "active": true,
+      "hiddenOn": [
+        "iceberg",
+        "unicorn"
+      ],
+      "url": "https://t.me/+S8H8e1i8yCdhZjA6"
+    },
+    {
+      "name": "CHANNEL",
+      "avatarInitials": "",
+      "avatarColor": "linear-gradient(135deg, #FF8A4C, #FF4FD8)",
+      "avatarImage": "https://raw.githubusercontent.com/klarkstorm-afk/ICEBERG.PL/main/avatars/edf539b79b561e4b.gif",
+      "active": true,
+      "hiddenOn": [
+        "iceberg",
+        "unicorn"
+      ],
+      "url": "https://t.me/WENDIGONEWSPK"
+    },
+    {
+      "name": "CHANNEL",
+      "avatarInitials": "",
+      "avatarColor": "#9B5CFF",
+      "avatarImage": "https://raw.githubusercontent.com/klarkstorm-afk/ICEBERG.PL/main/avatars/f68c6f633035e469.jpg",
+      "active": true,
+      "hiddenOn": [
+        "iceberg",
+        "wendigo"
+      ],
+      "url": "https://t.me/unaihevsja"
     }
   ],
   "order": {
