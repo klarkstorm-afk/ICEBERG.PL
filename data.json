@@ -119,6 +119,7 @@
           "botMessage": ""
         }
       },
+      "active": false,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -158,6 +159,7 @@
           "botMessage": ""
         }
       },
+      "active": false,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -197,6 +199,7 @@
           "botMessage": ""
         }
       },
+      "active": false,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -236,6 +239,7 @@
           "botMessage": ""
         }
       },
+      "active": false,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -275,6 +279,7 @@
           "botMessage": ""
         }
       },
+      "active": false,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -285,7 +290,7 @@
       "avatarInitials": "🃏",
       "avatarColor": "linear-gradient(135deg,#FF6F91,#7A1030)",
       "avatarImage": "https://raw.githubusercontent.com/klarkstorm-afk/ICEBERG.PL/main/avatars/8d05dd19643005f6.jpg",
-      "active": true,
+      "active": false,
       "hiddenOn": [],
       "cities": [
         "Warszawa"
@@ -357,6 +362,7 @@
           "botMessage": ""
         }
       },
+      "active": false,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -396,6 +402,7 @@
           "botMessage": ""
         }
       },
+      "active": false,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -435,6 +442,7 @@
           "botMessage": ""
         }
       },
+      "active": false,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -474,6 +482,7 @@
           "botMessage": ""
         }
       },
+      "active": false,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -513,6 +522,7 @@
           "botMessage": ""
         }
       },
+      "active": false,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -552,6 +562,7 @@
           "botMessage": ""
         }
       },
+      "active": false,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -591,6 +602,7 @@
           "botMessage": ""
         }
       },
+      "active": false,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -630,6 +642,7 @@
           "botMessage": ""
         }
       },
+      "active": false,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -669,6 +682,7 @@
           "botMessage": ""
         }
       },
+      "active": false,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -708,6 +722,7 @@
           "botMessage": ""
         }
       },
+      "active": false,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -747,6 +762,7 @@
           "botMessage": ""
         }
       },
+      "active": false,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -786,6 +802,7 @@
           "botMessage": ""
         }
       },
+      "active": false,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -825,6 +842,7 @@
           "botMessage": ""
         }
       },
+      "active": false,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -864,6 +882,7 @@
           "botMessage": ""
         }
       },
+      "active": false,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -903,6 +922,7 @@
           "botMessage": ""
         }
       },
+      "active": false,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -942,6 +962,7 @@
           "botMessage": ""
         }
       },
+      "active": false,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -981,6 +1002,7 @@
           "botMessage": ""
         }
       },
+      "active": false,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -1020,6 +1042,7 @@
           "botMessage": ""
         }
       },
+      "active": false,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -1059,6 +1082,7 @@
           "botMessage": ""
         }
       },
+      "active": false,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -1098,6 +1122,7 @@
           "botMessage": ""
         }
       },
+      "active": false,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -1137,6 +1162,7 @@
           "botMessage": ""
         }
       },
+      "active": false,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -1176,6 +1202,7 @@
           "botMessage": ""
         }
       },
+      "active": false,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -1215,6 +1242,7 @@
           "botMessage": ""
         }
       },
+      "active": false,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -1254,6 +1282,7 @@
           "botMessage": ""
         }
       },
+      "active": false,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -1293,6 +1322,7 @@
           "botMessage": ""
         }
       },
+      "active": false,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -1332,6 +1362,7 @@
           "botMessage": ""
         }
       },
+      "active": false,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -1342,7 +1373,7 @@
       "avatarInitials": "",
       "avatarColor": "#FF4FD8",
       "avatarImage": "https://raw.githubusercontent.com/klarkstorm-afk/ICEBERG.PL/main/avatars/127c1caaf1d582b6.jpg",
-      "active": true,
+      "active": false,
       "hiddenOn": [],
       "cities": [
         "Warszawa"
@@ -1383,7 +1414,7 @@
       "avatarInitials": "",
       "avatarColor": "linear-gradient(135deg, #3DE8FF, #7CFFB2)",
       "avatarImage": "https://raw.githubusercontent.com/klarkstorm-afk/ICEBERG.PL/main/avatars/732b18d2a95fa9e3.jpg",
-      "active": true,
+      "active": false,
       "hiddenOn": [],
       "cities": [
         "Warszawa"
@@ -1424,7 +1455,7 @@
       "avatarInitials": "",
       "avatarColor": "#FF4FD8",
       "avatarImage": "https://raw.githubusercontent.com/klarkstorm-afk/ICEBERG.PL/main/avatars/32b9cc041e79281f.jpg",
-      "active": true,
+      "active": false,
       "hiddenOn": [],
       "cities": [
         "Warszawa"
@@ -1465,7 +1496,7 @@
       "avatarInitials": "",
       "avatarColor": "linear-gradient(135deg, #9B5CFF, #3DE8FF)",
       "avatarImage": "https://raw.githubusercontent.com/klarkstorm-afk/ICEBERG.PL/main/avatars/0c53d158b65278e7.jpg",
-      "active": true,
+      "active": false,
       "hiddenOn": [],
       "cities": [
         "Warszawa"
@@ -1506,7 +1537,7 @@
       "avatarInitials": "",
       "avatarColor": "linear-gradient(135deg, #FFE45C, #FF8A4C)",
       "avatarImage": "https://raw.githubusercontent.com/klarkstorm-afk/ICEBERG.PL/main/avatars/7d4c03a816347c8b.jpg",
-      "active": true,
+      "active": false,
       "hiddenOn": [],
       "cities": [
         "Warszawa"
@@ -1547,7 +1578,7 @@
       "avatarInitials": "",
       "avatarColor": "linear-gradient(135deg, #3DE8FF, #7CFFB2)",
       "avatarImage": "https://raw.githubusercontent.com/klarkstorm-afk/ICEBERG.PL/main/avatars/9fe2a8bae9331a89.jpg",
-      "active": true,
+      "active": false,
       "hiddenOn": [],
       "cities": [
         "Warszawa"
@@ -1588,7 +1619,7 @@
       "avatarInitials": "",
       "avatarColor": "#3DE8FF",
       "avatarImage": "https://raw.githubusercontent.com/klarkstorm-afk/ICEBERG.PL/main/avatars/928fd3e9da5c0234.jpg",
-      "active": true,
+      "active": false,
       "hiddenOn": [],
       "cities": [
         "Warszawa"
@@ -1629,7 +1660,7 @@
       "avatarInitials": "",
       "avatarColor": "linear-gradient(135deg, #FF4FD8, #9B5CFF)",
       "avatarImage": "https://raw.githubusercontent.com/klarkstorm-afk/ICEBERG.PL/main/avatars/9447a6eca329e697.jpg",
-      "active": true,
+      "active": false,
       "hiddenOn": [],
       "cities": [
         "Warszawa"
