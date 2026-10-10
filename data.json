@@ -119,7 +119,7 @@
           "botMessage": ""
         }
       },
-      "active": false,
+      "active": true,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -159,7 +159,7 @@
           "botMessage": ""
         }
       },
-      "active": false,
+      "active": true,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -199,7 +199,7 @@
           "botMessage": ""
         }
       },
-      "active": false,
+      "active": true,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -239,7 +239,7 @@
           "botMessage": ""
         }
       },
-      "active": false,
+      "active": true,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
