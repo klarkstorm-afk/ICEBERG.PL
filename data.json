@@ -86,26 +86,19 @@
       "botMessage": "Привет, увидел/а вас у ICEBERG🧊"
     },
     {
-      "id": 3,
       "name": "🐞BIEDRONKA🐞",
-      "cities": [],
       "avatarInitials": "🐞",
       "avatarColor": "linear-gradient(135deg,#7A1030,#E6A23C)",
       "avatarImage": "https://raw.githubusercontent.com/klarkstorm-afk/ICEBERG.PL/main/avatars/67f3efeefd1eae03.jpg",
-      "websiteUrl": "",
-      "telegramUrl": "",
-      "botUrl": "",
-      "showWebsite": true,
-      "showTelegram": true,
-      "showBot": true,
-      "workingHours": "",
-      "description": "",
-      "verified": false,
-      "category": "",
+      "active": true,
+      "hiddenOn": [],
+      "cities": [
+        "Warszawa"
+      ],
       "perSite": {
         "iceberg": {
           "opt": false,
-          "paid": false,
+          "paid": true,
           "botMessage": ""
         },
         "wendigo": {
@@ -119,9 +112,19 @@
           "botMessage": ""
         }
       },
-      "active": true,
+      "websiteUrl": "",
+      "telegramUrl": "",
+      "botUrl": "",
+      "showWebsite": true,
+      "showTelegram": true,
+      "showBot": true,
+      "workingHours": "",
+      "description": "",
+      "id": 3,
+      "verified": false,
+      "category": "",
       "opt": false,
-      "bestseller": false,
+      "bestseller": true,
       "demonSeller": false,
       "botMessage": ""
     },
