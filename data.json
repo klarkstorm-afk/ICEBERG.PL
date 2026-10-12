@@ -36,6 +36,14 @@
       "showBot": false,
       "workingHours": "All week 13:00-23:30",
       "description": "Лучше уже не будет🥇",
+      "vouchers": [
+        {
+          "title": "-15% на любой товар",
+          "code": "Onetop--33",
+          "contact": "@one_top",
+          "active": true
+        }
+      ],
       "id": 1,
       "verified": false,
       "category": "",
