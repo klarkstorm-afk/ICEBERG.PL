@@ -98,7 +98,7 @@
       "avatarInitials": "🐞",
       "avatarColor": "linear-gradient(135deg,#7A1030,#E6A23C)",
       "avatarImage": "https://raw.githubusercontent.com/klarkstorm-afk/ICEBERG.PL/main/avatars/67f3efeefd1eae03.jpg",
-      "active": true,
+      "active": false,
       "hiddenOn": [],
       "cities": [
         "Warszawa"
@@ -170,7 +170,7 @@
           "botMessage": ""
         }
       },
-      "active": true,
+      "active": false,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -210,7 +210,7 @@
           "botMessage": ""
         }
       },
-      "active": true,
+      "active": false,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -250,7 +250,7 @@
           "botMessage": ""
         }
       },
-      "active": true,
+      "active": false,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
