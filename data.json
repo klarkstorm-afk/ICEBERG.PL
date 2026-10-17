@@ -1713,7 +1713,21 @@
       "botMessage": ""
     }
   ],
-  "services": [],
+  "services": [
+    {
+      "name": "graphite design",
+      "avatarInitials": "",
+      "avatarColor": "linear-gradient(135deg, #7CFFB2, #FFE45C)",
+      "avatarImage": "https://raw.githubusercontent.com/klarkstorm-afk/ICEBERG.PL/main/avatars/10363cc328c335ac.jpg",
+      "active": true,
+      "hiddenOn": [
+        "wendigo",
+        "unicorn"
+      ],
+      "websiteUrl": "",
+      "telegramUrl": "https://t.me/graphitepl"
+    }
+  ],
   "channels": [
     {
       "name": "🧊ICEBERG CHAT🧊",
