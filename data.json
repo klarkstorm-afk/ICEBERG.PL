@@ -98,15 +98,17 @@
       "avatarInitials": "🐞",
       "avatarColor": "linear-gradient(135deg,#7A1030,#E6A23C)",
       "avatarImage": "https://raw.githubusercontent.com/klarkstorm-afk/ICEBERG.PL/main/avatars/67f3efeefd1eae03.jpg",
-      "active": false,
-      "hiddenOn": [],
+      "active": true,
+      "hiddenOn": [
+        "iceberg"
+      ],
       "cities": [
         "Warszawa"
       ],
       "perSite": {
         "iceberg": {
           "opt": false,
-          "paid": true,
+          "paid": false,
           "botMessage": ""
         },
         "wendigo": {
@@ -132,7 +134,7 @@
       "verified": false,
       "category": "",
       "opt": false,
-      "bestseller": true,
+      "bestseller": false,
       "demonSeller": false,
       "botMessage": ""
     },
@@ -170,7 +172,7 @@
           "botMessage": ""
         }
       },
-      "active": false,
+      "active": true,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -210,33 +212,26 @@
           "botMessage": ""
         }
       },
-      "active": false,
+      "active": true,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
       "botMessage": ""
     },
     {
-      "id": 6,
       "name": "❤️Love is…❤️",
-      "cities": [],
       "avatarInitials": "❤️",
       "avatarColor": "linear-gradient(135deg,#FF6F91,#B0123B)",
       "avatarImage": "https://raw.githubusercontent.com/klarkstorm-afk/ICEBERG.PL/main/avatars/6a708a68ba137974.jpg",
-      "websiteUrl": "",
-      "telegramUrl": "",
-      "botUrl": "",
-      "showWebsite": true,
-      "showTelegram": true,
-      "showBot": true,
-      "workingHours": "",
-      "description": "",
-      "verified": false,
-      "category": "",
+      "active": true,
+      "hiddenOn": [],
+      "cities": [
+        "Warszawa"
+      ],
       "perSite": {
         "iceberg": {
           "opt": false,
-          "paid": false,
+          "paid": true,
           "botMessage": ""
         },
         "wendigo": {
@@ -250,9 +245,19 @@
           "botMessage": ""
         }
       },
-      "active": false,
+      "websiteUrl": "",
+      "telegramUrl": "",
+      "botUrl": "",
+      "showWebsite": true,
+      "showTelegram": true,
+      "showBot": true,
+      "workingHours": "",
+      "description": "",
+      "id": 6,
+      "verified": false,
+      "category": "",
       "opt": false,
-      "bestseller": false,
+      "bestseller": true,
       "demonSeller": false,
       "botMessage": ""
     },
@@ -290,7 +295,7 @@
           "botMessage": ""
         }
       },
-      "active": false,
+      "active": true,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -373,7 +378,7 @@
           "botMessage": ""
         }
       },
-      "active": false,
+      "active": true,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -413,7 +418,7 @@
           "botMessage": ""
         }
       },
-      "active": false,
+      "active": true,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -453,7 +458,7 @@
           "botMessage": ""
         }
       },
-      "active": false,
+      "active": true,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -493,7 +498,7 @@
           "botMessage": ""
         }
       },
-      "active": false,
+      "active": true,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -533,7 +538,7 @@
           "botMessage": ""
         }
       },
-      "active": false,
+      "active": true,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -573,7 +578,7 @@
           "botMessage": ""
         }
       },
-      "active": false,
+      "active": true,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -613,7 +618,7 @@
           "botMessage": ""
         }
       },
-      "active": false,
+      "active": true,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
