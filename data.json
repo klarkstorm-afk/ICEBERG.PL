@@ -98,7 +98,7 @@
       "avatarInitials": "🐞",
       "avatarColor": "linear-gradient(135deg,#7A1030,#E6A23C)",
       "avatarImage": "https://raw.githubusercontent.com/klarkstorm-afk/ICEBERG.PL/main/avatars/67f3efeefd1eae03.jpg",
-      "active": true,
+      "active": false,
       "hiddenOn": [
         "iceberg"
       ],
@@ -172,7 +172,7 @@
           "botMessage": ""
         }
       },
-      "active": true,
+      "active": false,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -212,7 +212,7 @@
           "botMessage": ""
         }
       },
-      "active": true,
+      "active": false,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -231,7 +231,7 @@
       "perSite": {
         "iceberg": {
           "opt": false,
-          "paid": true,
+          "paid": false,
           "botMessage": ""
         },
         "wendigo": {
@@ -257,7 +257,7 @@
       "verified": false,
       "category": "",
       "opt": false,
-      "bestseller": true,
+      "bestseller": false,
       "demonSeller": false,
       "botMessage": ""
     },
@@ -295,7 +295,7 @@
           "botMessage": ""
         }
       },
-      "active": true,
+      "active": false,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -378,7 +378,7 @@
           "botMessage": ""
         }
       },
-      "active": true,
+      "active": false,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -418,7 +418,7 @@
           "botMessage": ""
         }
       },
-      "active": true,
+      "active": false,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -458,7 +458,7 @@
           "botMessage": ""
         }
       },
-      "active": true,
+      "active": false,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -498,7 +498,7 @@
           "botMessage": ""
         }
       },
-      "active": true,
+      "active": false,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -538,7 +538,7 @@
           "botMessage": ""
         }
       },
-      "active": true,
+      "active": false,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -625,7 +625,7 @@
           "botMessage": ""
         }
       },
-      "active": true,
+      "active": false,
       "opt": false,
       "bestseller": false,
       "demonSeller": false,
@@ -1857,8 +1857,9 @@
   "order": {
     "wendigo": [
       1,
-      3,
+      14,
       2,
+      3,
       5,
       6,
       4,
@@ -1869,7 +1870,6 @@
       11,
       12,
       13,
-      14,
       15,
       16,
       17,
@@ -1945,9 +1945,10 @@
     ],
     "unicorn": [
       1,
+      14,
+      2,
       3,
       4,
-      2,
       5,
       6,
       7,
@@ -1957,7 +1958,6 @@
       11,
       12,
       13,
-      14,
       15,
       16,
       17,
