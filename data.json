@@ -223,7 +223,7 @@
       "avatarInitials": "❤️",
       "avatarColor": "linear-gradient(135deg,#FF6F91,#B0123B)",
       "avatarImage": "https://raw.githubusercontent.com/klarkstorm-afk/ICEBERG.PL/main/avatars/6a708a68ba137974.jpg",
-      "active": true,
+      "active": false,
       "hiddenOn": [],
       "cities": [
         "Warszawa"
@@ -545,27 +545,24 @@
       "botMessage": ""
     },
     {
-      "id": 14,
       "name": "🩸EVIL CORP🩸",
-      "cities": [],
       "avatarInitials": "🩸",
       "avatarColor": "linear-gradient(135deg,#FF6F91,#E6A23C)",
-      "avatarImage": "https://raw.githubusercontent.com/klarkstorm-afk/ICEBERG.PL/main/avatars/cca7c8150b713c93.jpg",
-      "websiteUrl": "",
-      "telegramUrl": "",
-      "botUrl": "",
-      "showWebsite": true,
-      "showTelegram": true,
-      "showBot": true,
-      "workingHours": "",
-      "description": "",
-      "verified": false,
-      "category": "",
+      "avatarImage": "https://raw.githubusercontent.com/klarkstorm-afk/ICEBERG.PL/main/avatars/868a7a8061b2afd9.jpg",
+      "active": true,
+      "hiddenOn": [],
+      "cities": [
+        "Warszawa",
+        "Kraków",
+        "Wrocław",
+        "Poznań",
+        "Katowice"
+      ],
       "perSite": {
         "iceberg": {
           "opt": false,
-          "paid": false,
-          "botMessage": ""
+          "paid": true,
+          "botMessage": "Привет я нашел вас в ICEBERG"
         },
         "wendigo": {
           "opt": false,
@@ -578,11 +575,21 @@
           "botMessage": ""
         }
       },
-      "active": true,
+      "websiteUrl": "https://evl24.co",
+      "telegramUrl": "",
+      "botUrl": "https://t.me/skdlmffekl_bot",
+      "showWebsite": true,
+      "showTelegram": true,
+      "showBot": true,
+      "workingHours": "",
+      "description": "",
+      "id": 14,
+      "verified": false,
+      "category": "",
       "opt": false,
-      "bestseller": false,
+      "bestseller": true,
       "demonSeller": false,
-      "botMessage": ""
+      "botMessage": "Привет я нашел вас в ICEBERG"
     },
     {
       "id": 15,
