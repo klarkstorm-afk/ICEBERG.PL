@@ -1816,6 +1816,47 @@
       "bestseller": true,
       "demonSeller": false,
       "botMessage": ""
+    },
+    {
+      "name": "BREAKING BAD",
+      "avatarInitials": "",
+      "avatarColor": "linear-gradient(135deg, #9B5CFF, #3DE8FF)",
+      "avatarImage": "https://raw.githubusercontent.com/klarkstorm-afk/ICEBERG.PL/main/avatars/1d17c90a4f7c915d.gif",
+      "active": true,
+      "hiddenOn": [],
+      "cities": [
+        "Warszawa"
+      ],
+      "perSite": {
+        "iceberg": {
+          "opt": false,
+          "paid": false,
+          "botMessage": ""
+        },
+        "wendigo": {
+          "opt": false,
+          "paid": false,
+          "botMessage": ""
+        },
+        "unicorn": {
+          "opt": false,
+          "paid": false,
+          "botMessage": ""
+        }
+      },
+      "websiteUrl": "https://BrB247.to",
+      "telegramUrl": "https://t.me/brb247",
+      "botUrl": "",
+      "showWebsite": true,
+      "showTelegram": true,
+      "showBot": true,
+      "workingHours": "Круглосуточно ",
+      "description": "",
+      "id": 45,
+      "opt": false,
+      "bestseller": false,
+      "demonSeller": false,
+      "botMessage": ""
     }
   ],
   "services": [
@@ -1998,10 +2039,11 @@
       42
     ],
     "iceberg": [
-      1,
       14,
       44,
       43,
+      1,
+      45,
       2,
       3,
       5,
