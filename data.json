@@ -1718,6 +1718,63 @@
       "bestseller": false,
       "demonSeller": false,
       "botMessage": ""
+    },
+    {
+      "name": "HARLEY",
+      "avatarInitials": "",
+      "avatarColor": "linear-gradient(135deg, #FF4FD8, #9B5CFF)",
+      "avatarImage": "https://raw.githubusercontent.com/klarkstorm-afk/ICEBERG.PL/main/avatars/1a1a624d2f53f088.jpg",
+      "active": true,
+      "hiddenOn": [],
+      "cities": [
+        "Warszawa",
+        "Kraków",
+        "Łódź",
+        "Wrocław",
+        "Poznań",
+        "Bydgoszcz",
+        "Białystok",
+        "Katowice",
+        "Gdynia",
+        "Częstochowa",
+        "Sosnowiec",
+        "Gliwice",
+        "Zabrze",
+        "Bielsko-Biała",
+        "Tychy",
+        "Dąbrowa Górnicza",
+        "Legnica"
+      ],
+      "perSite": {
+        "iceberg": {
+          "opt": false,
+          "paid": false,
+          "botMessage": ""
+        },
+        "wendigo": {
+          "opt": false,
+          "paid": false,
+          "botMessage": ""
+        },
+        "unicorn": {
+          "opt": false,
+          "paid": false,
+          "botMessage": ""
+        }
+      },
+      "websiteUrl": "http://har2ley.cc/",
+      "telegramUrl": "",
+      "botUrl": "https://t.me/wmxqzvtrnkjphdlybot",
+      "showWebsite": true,
+      "showTelegram": true,
+      "showBot": true,
+      "workingHours": "",
+      "description": "",
+      "id": 43,
+      "opt": false,
+      "bestseller": false,
+      "demonSeller": false,
+      "botMessage": ""
     }
   ],
   "services": [
@@ -1901,6 +1958,8 @@
     ],
     "iceberg": [
       1,
+      14,
+      43,
       2,
       3,
       5,
@@ -1913,7 +1972,6 @@
       11,
       12,
       13,
-      14,
       15,
       16,
       17,
