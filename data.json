@@ -14,7 +14,7 @@
       "perSite": {
         "iceberg": {
           "opt": true,
-          "paid": true,
+          "paid": false,
           "botMessage": "Привет, увидел вас в ICEBERG🧊"
         },
         "wendigo": {
@@ -48,7 +48,7 @@
       "verified": false,
       "category": "",
       "opt": true,
-      "bestseller": true,
+      "bestseller": false,
       "demonSeller": true,
       "botMessage": "Привет, увидел вас в ICEBERG🧊"
     },
@@ -1777,10 +1777,10 @@
       "botMessage": ""
     },
     {
-      "name": "EVIL CORP",
+      "name": "WISE SHOP",
       "avatarInitials": "",
-      "avatarColor": "linear-gradient(135deg, #FF4FD8, #9B5CFF)",
-      "avatarImage": "https://raw.githubusercontent.com/klarkstorm-afk/ICEBERG.PL/main/avatars/868a7a8061b2afd9.jpg",
+      "avatarColor": "#FF4FD8",
+      "avatarImage": "https://raw.githubusercontent.com/klarkstorm-afk/ICEBERG.PL/main/avatars/bda7b46d2ffb1186.gif",
       "active": true,
       "hiddenOn": [],
       "cities": [
@@ -1789,7 +1789,7 @@
       "perSite": {
         "iceberg": {
           "opt": false,
-          "paid": false,
+          "paid": true,
           "botMessage": ""
         },
         "wendigo": {
@@ -1803,9 +1803,9 @@
           "botMessage": ""
         }
       },
-      "websiteUrl": "https://evl24.co/",
-      "telegramUrl": "",
-      "botUrl": "https://t.me/skdlmffekl_bot",
+      "websiteUrl": "https://Wise247Store.to",
+      "telegramUrl": "https://t.me/wse247",
+      "botUrl": "",
       "showWebsite": true,
       "showTelegram": true,
       "showBot": true,
@@ -1813,7 +1813,7 @@
       "description": "",
       "id": 44,
       "opt": false,
-      "bestseller": false,
+      "bestseller": true,
       "demonSeller": false,
       "botMessage": ""
     }
@@ -2000,6 +2000,7 @@
     "iceberg": [
       1,
       14,
+      44,
       43,
       2,
       3,
