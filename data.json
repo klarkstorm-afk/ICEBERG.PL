@@ -1775,6 +1775,47 @@
       "bestseller": false,
       "demonSeller": false,
       "botMessage": ""
+    },
+    {
+      "name": "EVIL CORP",
+      "avatarInitials": "",
+      "avatarColor": "linear-gradient(135deg, #FF4FD8, #9B5CFF)",
+      "avatarImage": "https://raw.githubusercontent.com/klarkstorm-afk/ICEBERG.PL/main/avatars/868a7a8061b2afd9.jpg",
+      "active": true,
+      "hiddenOn": [],
+      "cities": [
+        "Warszawa"
+      ],
+      "perSite": {
+        "iceberg": {
+          "opt": false,
+          "paid": false,
+          "botMessage": ""
+        },
+        "wendigo": {
+          "opt": false,
+          "paid": false,
+          "botMessage": ""
+        },
+        "unicorn": {
+          "opt": false,
+          "paid": false,
+          "botMessage": ""
+        }
+      },
+      "websiteUrl": "https://evl24.co/",
+      "telegramUrl": "",
+      "botUrl": "https://t.me/skdlmffekl_bot",
+      "showWebsite": true,
+      "showTelegram": true,
+      "showBot": true,
+      "workingHours": "",
+      "description": "",
+      "id": 44,
+      "opt": false,
+      "bestseller": false,
+      "demonSeller": false,
+      "botMessage": ""
     }
   ],
   "services": [
